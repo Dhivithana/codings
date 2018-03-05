@@ -11,11 +11,11 @@ void main()
     l=strcmp(s,s1);
     if(l==0)
     {
-        printf("YES");
+       printf("YES");
     }
-    else
+   else
     {
-        printf("NO");
+     printf("NO");
     }
     
 }
